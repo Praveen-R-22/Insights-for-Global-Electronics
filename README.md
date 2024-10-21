@@ -1,5 +1,6 @@
 # Insights-for-Global-Electronics
-Problem Statement
+Problem Statement:
+
 As part of Global Electronics' data analytics team, the goal is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from the company’s data. The goal is to provide actionable recommendations that can enhance customer satisfaction, optimize operations, and drive overall business growth. Global Electronics, a leading retailer of consumer electronics, has provided you with several datasets containing information about their customers, products, sales, stores, and currency exchange rates. The company seeks to leverage this data to better understand their business and identify areas for improvement.
 
 Business Use Cases
@@ -8,8 +9,6 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 Tools Used
 
 • Jupyter Notebook
-
-• IDE- Visual Studio Code
 
 • Python, Pandas, Matplotlib, Seaborn - for Data cleaning and EDA(Exploratory Data Analysis)
 
